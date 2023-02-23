@@ -13,7 +13,7 @@ Support us on Ko-Fi!
 The following is a fan-based MINECRAFT MOD. Dragon Ball, Dragon Ball Z, Dragon Ball GT, and Dragon Ball Super are all owned by Funimation, Toei Animation, Shueisha and Akira Toriyama. Please support the official release.
 
 ### 🔹 Installation
-This mod is an ***update*** to CustomNPC and not an add-on. Do not install CustomNPC with CustomNPC-Plus. CustomNPC-Plus does not remove any functional features from the original mod. It expands upon CustomNPC with original features and backported features from newer versions. Simply drag CustomNPC-Plus into any client/server mods folder to utilize. Please **backup** before using as this could still have unforeseen errors. Report any bugs if found, thank you and enjoy.
+This mod uses CustomNPC+ as a dependency, and thus must be installed alongside this mod. Report any bugs if found, thank you and enjoy.
 
 ## Cloning / Compiling / Building
 
