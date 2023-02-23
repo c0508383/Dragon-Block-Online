@@ -5,8 +5,9 @@
 The mod is made for Minecraft Forge **1.7.10** in collaboration with KAMKEEL's CustomNPC+ mod, with the mod being used as a dependency.
 
 Support us on Ko-Fi!
-<a href="https://ko-fi.com/louisxiv"> <img src="https://i.imgur.com/EvkTjYS.png" alt="Support Me!"  width="90" height="90"> </a>
-<a href="https://ko-fi.com/kamkeel"> <img src="https://i.imgur.com/kNVNa1M.png" alt="Support KAM!"  width="90" height="90"> </a>
+
+<a href="https://ko-fi.com/louisxiv"> <img src="https://i.imgur.com/EvkTjYS.png" alt="Support Me!"  width="180" height="180"> </a>
+<a href="https://ko-fi.com/kamkeel"> <img src="https://i.imgur.com/kNVNa1M.png" alt="Support KAM!"  width="180" height="180"> </a>
 
 ### ❗ Notice
 The following is a fan-based MINECRAFT MOD. Dragon Ball, Dragon Ball Z, Dragon Ball GT, and Dragon Ball Super are all owned by Funimation, Toei Animation, Shueisha and Akira Toriyama. Please support the official release.
